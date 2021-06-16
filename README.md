@@ -5,6 +5,8 @@
 This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets.The tweets have been pulled from Twitter and manual tagging has been done then.
 The names and usernames have been given codes to avoid any privacy concerns.
 
+Here is the presentation link: https://github.com/soumya1999rta/Corona-Virus-Tweet-Sentiment-Analysis/blob/main/Coronavirus_Tweet_Sentiment_Analysis_Soumya_Ranjan_Mishra.pdf
+
 # Data Description
 
 You are given the following information:
